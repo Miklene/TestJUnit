@@ -9,6 +9,10 @@ public class Main {
         staff.addPerson(new Person(300));
         staff.addPerson(new Person(400));
         staff.addPerson(new Person(500));
+        staff.addPerson(new Person(600));
+        staff.addPerson(new Person(700));
+        staff.addPerson(new Person(800));
+        staff.addPerson(new Person(900));
 
     }
 
