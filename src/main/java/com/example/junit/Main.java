@@ -9,8 +9,7 @@ public class Main {
         staff.addPerson(new Person(300));
         staff.addPerson(new Person(400));
         staff.addPerson(new Person(500));
-        staff.addPerson(new Person(500));
-        staff.addPerson(new Person(500));
+
     }
 
 }
