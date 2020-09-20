@@ -22,6 +22,7 @@ public class EstimateTest {
         int expected = estimate.makeEstimate(arrayList);
         int actual = person1.getSalary() + person2.getSalary() + person3.getSalary();
         Assert.assertEquals(expected,actual);
-
     }
+
+
 }

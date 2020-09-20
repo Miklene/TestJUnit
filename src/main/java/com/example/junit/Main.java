@@ -13,6 +13,9 @@ public class Main {
         staff.addPerson(new Person(700));
         staff.addPerson(new Person(800));
         staff.addPerson(new Person(900));
+        staff.addPerson(new Person(1000));
+        staff.addPerson(new Person(1100));
+        staff.addPerson(new Person(1200));
 
     }
 
